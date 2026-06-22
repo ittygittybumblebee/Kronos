@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./.venv/Scripts/python.exe -u run_mtf_diagnostics.py)"
+    ]
+  }
+}
